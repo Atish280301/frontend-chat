@@ -1,5 +1,6 @@
 //frontend/src/utils/constants.jsx
-export const HOST = "http://localhost:8081";
+// export const HOST = "http://localhost:8081";
+export const HOST = "https://vercel.com/lipun-sahus-projects/backend-chat/746pB1G1yqEJyTk15hpHAu1Zeg5t";
 export const AUTH_ROUTES = "api/auth";
 export const SIGNUP_ROUTE = `${AUTH_ROUTES}/signup`;
 export const LOGIN_ROUTE = `${AUTH_ROUTES}/login`;
